@@ -1,0 +1,20 @@
+.scp-quizzes-data{ 
+box-shadow: 0px 1px 3px -1px #DCDCDC;
+padding:10px;
+margin-top:15px;
+}
+.kirish{
+    background-color: mediumblue;
+    color: white;
+    padding: 8px 15px;
+}
+pre{ border:2px solid 
+	#a5f5f5; padding:10px; overflow-x:scroll;}
+input[type=radio] + label {
+    display:inline-block;
+	width:95%;
+	padding:10px;
+	border:1px solid #ddd;
+	margin-bottom:10px;
+}
+
